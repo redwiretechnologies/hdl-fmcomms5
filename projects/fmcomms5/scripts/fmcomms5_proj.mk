@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 M_DEPS += ../../scripts/fmcomms5_bd.tcl
 
 M_REPOS += hdl-fmcomms5
